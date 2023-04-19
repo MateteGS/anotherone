@@ -27,3 +27,18 @@ h1 {
     padding-bottom: 1.4rem;
 }
 
+.img {
+    object-fit: cover;
+    width: 100%;
+}
+
+#image {
+    width: 76%;
+    height: 800px;
+}
+#two {
+    text-align: center;
+    background-color: white;
+    padding: 20px;
+    margin: 30px;
+}
