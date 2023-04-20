@@ -39,12 +39,12 @@ h1 {
   height: 800px;
 }
 
-#two { 
+#two {
   text-align: center;
   background-color: white;
   padding: 20px;
   margin: 30px;
-  margin-top: 0px;
+  margin-top: 0;
 }
 
 #outer {
