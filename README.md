@@ -1,5 +1,7 @@
 # anotherone
 had to repeat this stuff
 
--development first
-
+-development branch first
+-feature branch
+-gitignore 
+-index & styles
